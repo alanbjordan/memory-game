@@ -29,6 +29,10 @@
   color: #666666;
 }
 
+.CardRows {
+  display: inline-block;
+}
+
 .App-link {
   color: #61dafb;
 }
