@@ -12,6 +12,12 @@ function App() {
         <p className="subTitle">Match Cards To Win</p>
       </header>
       <div className="CardRows">     
+        <MemoryCard color="blue" />
+        <MemoryCard/>
+        <MemoryCard/>
+        <MemoryCard/>
+      </div>
+      <div className="CardRows">     
         <MemoryCard/>
         <MemoryCard/>
         <MemoryCard/>
@@ -29,7 +35,6 @@ function App() {
         <MemoryCard/>
         <MemoryCard/>
       </div>
-
     </div>
   );
 }
