@@ -30,7 +30,7 @@
 }
 
 .CardRows {
-  display: inline-block;
+  display: block;
 }
 
 .App-link {
